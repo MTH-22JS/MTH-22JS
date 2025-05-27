@@ -20,9 +20,9 @@ Obecnie uczę się Pythona i JavaScriptu, a moim celem jest pierwsza praca w IT 
 
 
   📁 Projekty (w budowie):
- -✅ Kalkulator w JavaScript
- -✅ Blog w Flasku
- -✅ Skrypt automatyzujący pobieranie danych z internetu
+- ✅ Kalkulator w JavaScript
+- ✅ Blog w Flasku
+- ✅ Skrypt automatyzujący pobieranie danych z internetu
 
 
 
