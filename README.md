@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hej! Mam na imię Maciej
 
-<!--
-**MTH-22JS/MTH-22JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uczę się programowania i buduję swoje portfolio, aby zostać Full-Stack Developerem 💻  
+Obecnie uczę się Pythona i JavaScriptu, a moim celem jest pierwsza praca w IT 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🧠 Obecnie uczę się:
+- Python (podstawy + automatyzacja)
+- JavaScript (DOM, fetch API)
+- HTML & CSS (tworzenie prostych stron)
+- Git i GitHub (kontrola wersji)
+
+
+🔧 Technologie, które poznaję:
+ [Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+ [JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+ [HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+ [CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+ [Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
+
+ 📁 Projekty (w budowie):
+ ✅ Kalkulator w JavaScript
+ ✅ Blog w Flasku
+ ✅ Skrypt automatyzujący pobieranie danych z internetu
+
+
+
+🎯 Mój cel na 2025:
+Zbudować kilka projektów, które pokażą moją naukę  i dostać pierwszą pracę jako junior developer💼
+
+
+
+📫 Kontakt:
+📧 m.tomaszewski.kontakt@o2.pl
