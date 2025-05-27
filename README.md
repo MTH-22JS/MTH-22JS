@@ -12,11 +12,11 @@ Obecnie uczę się Pythona i JavaScriptu, a moim celem jest pierwsza praca w IT 
 
 
 🔧 Technologie, które poznaję:
- [Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
- [JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
- [HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
- [CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
- [Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+ ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+ ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+ ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 
  📁 Projekty (w budowie):
