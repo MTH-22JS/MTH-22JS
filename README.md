@@ -19,10 +19,10 @@ Obecnie uczę się Pythona i JavaScriptu, a moim celem jest pierwsza praca w IT 
  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 
- 📁 Projekty (w budowie):
- ✅ Kalkulator w JavaScript
- ✅ Blog w Flasku
- ✅ Skrypt automatyzujący pobieranie danych z internetu
+  📁 Projekty (w budowie):
+ -✅ Kalkulator w JavaScript
+ -✅ Blog w Flasku
+ -✅ Skrypt automatyzujący pobieranie danych z internetu
 
 
 
